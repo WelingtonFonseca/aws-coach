@@ -1,0 +1,17 @@
+{
+  "name": "meu-agente",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node agente.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "groq-sdk": "^1.2.1",
+    "mammoth": "^1.12.0",
+    "pdf-parse": "^2.4.5",
+    "pdfjs-dist": "^6.0.227"
+  }
+}
