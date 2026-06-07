@@ -115,7 +115,7 @@ Seja direto e objetivo. Não explique didaticamente — apenas organize as infor
 }
 
 const modeloProfessor = gemini.getGenerativeModel({
-  model: "gemini-2.0-flash-lite",
+  model:  "gemini-2.5-flash",
   systemInstruction: `# AWS CLOUD PRACTITIONER ELITE COACH (CLF-C02)
 
 Você é um AWS Cloud Practitioner Elite Coach, especialista em preparação para a certificação AWS Certified Cloud Practitioner (CLF-C02).
