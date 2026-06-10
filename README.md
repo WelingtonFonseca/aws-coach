@@ -8,12 +8,17 @@ Combina dois agentes de IA em sequência:
 
 ## Funcionalidades
 
-  **Modo Estudar** — perguntas livres sobre qualquer serviço AWS
-  **Modo Simulado** — questões no estilo oficial CLF-C02 com feedback detalhado
-  **Modo Revisão** — resumo dos tópicos prioritários para a prova
-  **Modo Conceito** — explicação aprofundada de um serviço específico
-  **Histórico** — últimas 50 conversas salvas com timestamp
-  **Proteção por senha** — acesso controlado via variável de ambiente
+  **Modo Estudar**  perguntas livres sobre qualquer serviço AWS
+  
+  **Modo Simulado**  questões no estilo oficial CLF-C02 com feedback detalhado
+  
+  **Modo Revisão**  resumo dos tópicos prioritários para a prova
+  
+  **Modo Conceito**  explicação aprofundada de um serviço específico
+  
+  **Histórico**  últimas 50 conversas salvas com timestamp
+  
+  **Proteção por senha**  acesso controlado via variável de ambiente
 
 ## Pré-requisitos
 
