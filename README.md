@@ -3,8 +3,8 @@
 Sistema multi-agente de estudos para a certificação **AWS Certified Cloud Practitioner (CLF-C02)**.
 
 Combina dois agentes de IA em sequência:
- **Groq / LLaMA 3.3 70B** — pesquisa e extrai trechos relevantes dos materiais do aluno
- **Gemini 2.5 Flash** — explica de forma didática, cria simulados e faz revisões
+ **Groq / LLaMA 3.3 70B** pesquisa e extrai trechos relevantes dos materiais do aluno
+ **Gemini 2.5 Flash**  explica de forma didática, cria simulados e faz revisões
 
 ## Funcionalidades
 
